@@ -1,0 +1,26 @@
+[
+  {
+    "productId": "00002928",
+    "productName": "Denim",
+    "descriptions": {
+      "old_description": "dolor sit amet, consectetur adipiscing elit",
+      "new_description": "t malesuada luctus urna, id consequat l"
+    }
+  },
+  {
+    "productId": "00002929",
+    "productName": "Chino",
+    "descriptions": {
+      "old_description": "dolor sit amet, consectetur adipiscing elit",
+      "new_description": "t malesuada luctus urna, id consequat l"
+    }
+  },
+  {
+    "productId": "00002930",
+    "productName": "Skirt",
+    "descriptions": {
+      "old_description": "dolor sit amet, consectetur adipiscing elit",
+      "new_description": "t malesuada luctus urna, id consequat l"
+    }
+  }
+]
