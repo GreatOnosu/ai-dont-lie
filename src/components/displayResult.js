@@ -1,19 +1,14 @@
 import React from "react"
 import { useState } from "react"
+import Button from "react-bootstrap/Button"
+import Form from "react-bootstrap/Form"
 
-export const DisplayResult = ({ responseData }) => {
+export const DisplayResult = ({ caption, responseData, showButton }) => {
   const [isCopied, setIsCopied] = useState(false)
 
-  const copyTextToClipboard = async ({ text }) => {
-    if ("clipboard" in navigator) {
-      return await navigator.clipboard.writeText(text)
-    } else {
-      return document.execCommand("copy", true, text)
-    }
-  }
-
-  const handleCopyClick = () => {
-    copyTextToClipboard(responseData)
+  const handleCopyClick = async text => {
+    return navigator.clipboard
+      .writeText(text)
       .then(() => {
         setIsCopied(true)
         setTimeout(() => {
@@ -26,11 +21,26 @@ export const DisplayResult = ({ responseData }) => {
   }
 
   return (
-    <div>
-      <textarea type="text" value={responseData} readOnly />
-      <button onClick={handleCopyClick}>
-        <span>{isCopied ? "Copied!" : "Copy"}</span>
-      </button>
+    <div style={{ marginTop: "8px" }}>
+      <span>{caption}: </span>
+      <Form.Control
+        as="textarea"
+        type="text"
+        value={responseData}
+        style={{ height: "100px", backgroundColor: "#e5e5e5" }}
+      />
+      <br />
+      {showButton && (
+        <>
+          <Button
+            type="button"
+            onClick={() => handleCopyClick(responseData)}
+            style={{ backgroundColor: "#7b028e", color: "white" }}
+          >
+            <span>{isCopied ? "Copied!" : "Copy"}</span>
+          </Button>
+        </>
+      )}
     </div>
   )
 }

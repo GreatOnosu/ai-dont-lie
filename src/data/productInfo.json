@@ -1,26 +1,443 @@
 [
   {
-    "productId": "00002928",
-    "productName": "Denim",
+    "productId": "22365040",
+    "productName": "Straight Leg Jeans ",
     "descriptions": {
       "old_description": "dolor sit amet, consectetur adipiscing elit",
-      "new_description": "t malesuada luctus urna, id consequat l"
-    }
+      "new_description": "Introducing the M&S Brand Straight Leg Jeans, a regular fit made with a cotton blend. Featuring button and zip fastening, these jeans are perfect for any outfit in your wardrobe. Their straight leg fit lets you show off your style, while the denim fabric looks classic and modern at the same time. Plus, they're made in an ethical factory that adheres to The Better Cotton Initiative (BCI) reducing environmental impact of cotton farming and supporting community initiatives through mass balance. Get them now!"
+    },
+    "keywords": [
+      "Cotton Mix",
+      "Plain",
+      "M S Brand",
+      "Button And Zip Fastening",
+      "Jeans",
+      "Bci Cotton",
+      "Denim",
+      "Regular Fit",
+      "Straight Leg",
+      "On Waist",
+      "Straight Leg",
+      "Ruffle"
+    ]
   },
   {
-    "productId": "00002929",
-    "productName": "Chino",
+    "productId": "60273121",
+    "productName": "Corduroy High Waisted Leggings",
     "descriptions": {
       "old_description": "dolor sit amet, consectetur adipiscing elit",
-      "new_description": "t malesuada luctus urna, id consequat l"
-    }
+      "new_description": "The M&S Collection Plain Unlined Polyester Blend Corduroy High Waisted Leggings are perfect for creating a stylish, easy-wear look. These ankle grazers have an elasticated waist and provide you with a comfortable feel all day long - even better thanks to The Better Cotton Initiative ensuring farming practices reduce the environmental impact. Ideal as trousers or leggings, these regular fit must-haves will be staple of your wardrobe."
+    },
+    "keywords": [
+      "Cotton Mix",
+      "Plain",
+      "M S Brand",
+      "Button And Zip Fastening",
+      "Jeans",
+      "Bci Cotton",
+      "Denim",
+      "Regular Fit",
+      "Straight Leg",
+      "On Waist",
+      "Straight Leg",
+      "Ruffle"
+    ]
   },
   {
-    "productId": "00002930",
-    "productName": "Skirt",
+    "productId": "22492311",
+    "productName": "Super Skinny Leg Jeans",
     "descriptions": {
       "old_description": "dolor sit amet, consectetur adipiscing elit",
-      "new_description": "t malesuada luctus urna, id consequat l"
-    }
+      "new_description": "Introducing the 'Super Skinny Leg Jeans' from M&S Collection. This stylish piece is crafted from plain denim, with a regular fit jegging and unlined design that combines maximum comfort with enduring style. A cotton blend offers a lightweight feel, while skinny leg and mid rise create an undeniably on-trend silhouette. Button and zip fastening, these jeans fall just on the ankle for timeless appeal. As part of The Better Cotton Initiative, this tasteful pair helps reduce environmental impact as well as community initiatives through mass balance."
+    },
+    "keywords": [
+      "Cotton Mix",
+      "Plain",
+      "M S Brand",
+      "Button And Zip Fastening",
+      "Jeans",
+      "Bci Cotton",
+      "Denim",
+      "Regular Fit",
+      "Straight Leg",
+      "On Waist",
+      "Straight Leg",
+      "Ruffle"
+    ]
+  },
+  {
+    "productId": "22358567",
+    "productName": "Sculpt & Lift Skinny Leg Jeans",
+    "descriptions": {
+      "old_description": "dolor sit amet, consectetur adipiscing elit",
+      "new_description": "Unlock your signature style with these M&S Brand Plain Denim 'Sculpt & Lift Skinny Leg Jeans', a regular fit, skinny jean made from cotton blend. Featuring a button and zip fastening and reaching on the ankle, it's designed by Better Cotton Initiative to help reduce environmental impact. Flatter your silhouette with denim essentials for effortless styling."
+    },
+    "keywords": [
+      "Cotton Mix",
+      "Plain",
+      "M S Brand",
+      "Button And Zip Fastening",
+      "Jeans",
+      "Bci Cotton",
+      "Denim",
+      "Regular Fit",
+      "Straight Leg",
+      "On Waist",
+      "Straight Leg",
+      "Ruffle"
+    ]
+  },
+  {
+    "productId": "60273120",
+    "productName": "High Waisted Super Skinny Jeans",
+    "descriptions": {
+      "old_description": "dolor sit amet, consectetur adipiscing elit",
+      "new_description": "Look great and do good with the M&S Collection High Waisted Super Skinny Jeans. These plain denim jeans feature a super skinny fit, cotton blend and super stretch denim for total comfort. With button and zip fastening, they will sit high on your waist for a flattering silhouette plus an ankle grazer style leg for regular wear. The Better Cotton Initiative (BCI) helps reduce impact on the environment & community initiatives through mass balance."
+    },
+    "keywords": [
+      "Cotton Mix",
+      "Plain",
+      "M S Brand",
+      "Button And Zip Fastening",
+      "Jeans",
+      "Bci Cotton",
+      "Denim",
+      "Regular Fit",
+      "Straight Leg",
+      "On Waist",
+      "Straight Leg",
+      "Ruffle"
+    ]
+  },
+  {
+    "productId": "60217512",
+    "productName": "Pure Cotton Chino Shorts",
+    "descriptions": {
+      "old_description": "dolor sit amet, consectetur adipiscing elit",
+      "new_description": "Our 'Pure Cotton Chino Shorts' from the M & S Collection offer a classic, plain look with maximum comfort - perfect for any casual occasion. Made from 100% cotton and featuring a button and zip fastening, these shorts are tailored to fit your regular size. The Better Cotton Initiative helps reduce environmental impacts of cotton farming; support community initiatives through mass balance. Refresh your wardrobe today!"
+    },
+    "keywords": [
+      "Cotton Mix",
+      "Plain",
+      "M S Brand",
+      "Button And Zip Fastening",
+      "Jeans",
+      "Bci Cotton",
+      "Denim",
+      "Regular Fit",
+      "Straight Leg",
+      "On Waist",
+      "Straight Leg",
+      "Ruffle"
+    ],
+    "imageURL": "https://asset1.cxnmarksandspencer.com/is/image/mands/Pure-Cotton-Chino-Shorts/MS_10_T19_8805S_F0_X_EC_1?$PDP_IMAGEGRID_ZOOM_LG$"
+  },
+  {
+    "productId": "22259229",
+    "productName": "5 Pocket Jeggings",
+    "descriptions": {
+      "old_description": "dolor sit amet, consectetur adipiscing elit",
+      "new_description": "This beautiful shirt from the Indigo Collection is a classic style with modern appeal. The Regular Fit provides comfort while button-through, V-neck styling looks smart and sophisticated. Ideal for those days when you want to ooze effortless elegance!"
+    },
+    "keywords": [
+      "Cotton Mix",
+      "Plain",
+      "M S Brand",
+      "Button And Zip Fastening",
+      "Jeans",
+      "Bci Cotton",
+      "Denim",
+      "Regular Fit",
+      "Straight Leg",
+      "On Waist",
+      "Straight Leg",
+      "Ruffle"
+    ]
+  },
+  {
+    "productId": "22500959",
+    "productName": "In Fray Turn Up Mid Rise Skinny Leg Jeans",
+    "descriptions": {
+      "old_description": "dolor sit amet, consectetur adipiscing elit",
+      "new_description": "Our In Fray Turn Up Mid Rise Skinny Leg Jeans from our Indigo Collection are perfect for any wardrobe. Crafted from a denim and cotton blend, these regular fit jeans feature a button and zip fastening, cropped ankles and mid-rise waist for a classic silhouette. Furthermore, The Better Cotton Initiative helps reduce the impact of cotton farming on the environment. Practical yet stylish - look no further!"
+    },
+    "keywords": [
+      "Cotton Mix",
+      "Plain",
+      "M S Brand",
+      "Button And Zip Fastening",
+      "Jeans",
+      "Bci Cotton",
+      "Denim",
+      "Regular Fit",
+      "Straight Leg",
+      "On Waist",
+      "Straight Leg",
+      "Ruffle"
+    ]
+  },
+  {
+    "productId": "60139648",
+    "productName": "High Waisted Jeggings",
+    "descriptions": {
+      "old_description": "dolor sit amet, consectetur adipiscing elit",
+      "new_description": "Elevate your denim style with these High Waisted Jeggings from our M&S Collection. They feature a plain, denim-blue finish and are super skinny fit for a sleek look. Crafted from an unlined cotton blend that offers extra stretch, they can be pulled on quickly to create the perfect ankle-length jeans look. Alongside suitable comfort and style benefits this garment is also part of the Better Cotton Initiative (BCI) helping reduce environmental impact of cotton farming and supporting community initiatives through mass balance."
+    },
+    "keywords": [
+      "Cotton Mix",
+      "Plain",
+      "M S Brand",
+      "Button And Zip Fastening",
+      "Jeans",
+      "Bci Cotton",
+      "Denim",
+      "Regular Fit",
+      "Straight Leg",
+      "On Waist",
+      "Straight Leg",
+      "Ruffle"
+    ]
+  },
+  {
+    "productId": "60521906",
+    "productName": "High Waisted Flare Cropped Jeans",
+    "descriptions": {
+      "old_description": "dolor sit amet, consectetur adipiscing elit",
+      "new_description": "These 'High Waisted Flare Cropped Jeans' from the M And S Collection make a great wardrobe staple. Made of plain cotton, these jeans are flared and high waisted for classic style - plus button and zip fastening for maximum convenience. Regular fit ensures comfort and cropped length ensures versatility; perfect for day-to-night outfits! They're crafted with recycled cotton fibre spun from spinning waste, noils, fabric scraps or used garments."
+    },
+    "keywords": [
+      "Cotton Mix",
+      "Plain",
+      "M S Brand",
+      "Button And Zip Fastening",
+      "Jeans",
+      "Bci Cotton",
+      "Denim",
+      "Regular Fit",
+      "Straight Leg",
+      "On Waist",
+      "Straight Leg",
+      "Ruffle"
+    ]
+  },
+  {
+    "productId": "T576665",
+    "productName": "Straight Leg Jeans ",
+    "descriptions": {
+      "old_description": "dolor sit amet, consectetur adipiscing elit",
+      "new_description": "Introducing the M&S Brand Straight Leg Jeans, a regular fit made with a cotton blend. Featuring button and zip fastening, these jeans are perfect for any outfit in your wardrobe. Their straight leg fit lets you show off your style, while the denim fabric looks classic and modern at the same time. Plus, they're made in an ethical factory that adheres to The Better Cotton Initiative (BCI) reducing environmental impact of cotton farming and supporting community initiatives through mass balance. Get them now!"
+    },
+    "keywords": [
+      "Cotton Mix",
+      "Plain",
+      "M S Brand",
+      "Button And Zip Fastening",
+      "Jeans",
+      "Bci Cotton",
+      "Denim",
+      "Regular Fit",
+      "Straight Leg",
+      "On Waist",
+      "Straight Leg",
+      "Ruffle"
+    ]
+  },
+  {
+    "productId": "T578881",
+    "productName": "Corduroy High Waisted Leggings",
+    "descriptions": {
+      "old_description": "dolor sit amet, consectetur adipiscing elit",
+      "new_description": "The M&S Collection Plain Unlined Polyester Blend Corduroy High Waisted Leggings are perfect for creating a stylish, easy-wear look. These ankle grazers have an elasticated waist and provide you with a comfortable feel all day long - even better thanks to The Better Cotton Initiative ensuring farming practices reduce the environmental impact. Ideal as trousers or leggings, these regular fit must-haves will be staple of your wardrobe."
+    },
+    "keywords": [
+      "Cotton Mix",
+      "Plain",
+      "M S Brand",
+      "Button And Zip Fastening",
+      "Jeans",
+      "Bci Cotton",
+      "Denim",
+      "Regular Fit",
+      "Straight Leg",
+      "On Waist",
+      "Straight Leg",
+      "Ruffle"
+    ]
+  },
+  {
+    "productId": "T579334",
+    "productName": "Super Skinny Leg Jeans",
+    "descriptions": {
+      "old_description": "dolor sit amet, consectetur adipiscing elit",
+      "new_description": "Introducing the 'Super Skinny Leg Jeans' from M&S Collection. This stylish piece is crafted from plain denim, with a regular fit jegging and unlined design that combines maximum comfort with enduring style. A cotton blend offers a lightweight feel, while skinny leg and mid rise create an undeniably on-trend silhouette. Button and zip fastening, these jeans fall just on the ankle for timeless appeal. As part of The Better Cotton Initiative, this tasteful pair helps reduce environmental impact as well as community initiatives through mass balance."
+    },
+    "keywords": [
+      "Cotton Mix",
+      "Plain",
+      "M S Brand",
+      "Button And Zip Fastening",
+      "Jeans",
+      "Bci Cotton",
+      "Denim",
+      "Regular Fit",
+      "Straight Leg",
+      "On Waist",
+      "Straight Leg",
+      "Ruffle"
+    ]
+  },
+  {
+    "productId": "T576386",
+    "productName": "Sculpt & Lift Skinny Leg Jeans",
+    "descriptions": {
+      "old_description": "dolor sit amet, consectetur adipiscing elit",
+      "new_description": "Unlock your signature style with these M&S Brand Plain Denim 'Sculpt & Lift Skinny Leg Jeans', a regular fit, skinny jean made from cotton blend. Featuring a button and zip fastening and reaching on the ankle, it's designed by Better Cotton Initiative to help reduce environmental impact. Flatter your silhouette with denim essentials for effortless styling."
+    },
+    "keywords": [
+      "Cotton Mix",
+      "Plain",
+      "M S Brand",
+      "Button And Zip Fastening",
+      "Jeans",
+      "Bci Cotton",
+      "Denim",
+      "Regular Fit",
+      "Straight Leg",
+      "On Waist",
+      "Straight Leg",
+      "Ruffle"
+    ]
+  },
+  {
+    "productId": "T578605",
+    "productName": "High Waisted Super Skinny Jeans",
+    "descriptions": {
+      "old_description": "dolor sit amet, consectetur adipiscing elit",
+      "new_description": "Look great and do good with the M&S Collection High Waisted Super Skinny Jeans. These plain denim jeans feature a super skinny fit, cotton blend and super stretch denim for total comfort. With button and zip fastening, they will sit high on your waist for a flattering silhouette plus an ankle grazer style leg for regular wear. The Better Cotton Initiative (BCI) helps reduce impact on the environment & community initiatives through mass balance."
+    },
+    "keywords": [
+      "Cotton Mix",
+      "Plain",
+      "M S Brand",
+      "Button And Zip Fastening",
+      "Jeans",
+      "Bci Cotton",
+      "Denim",
+      "Regular Fit",
+      "Straight Leg",
+      "On Waist",
+      "Straight Leg",
+      "Ruffle"
+    ]
+  },
+  {
+    "productId": "T573382",
+    "productName": "Pure Cotton Chino Shorts",
+    "descriptions": {
+      "old_description": "dolor sit amet, consectetur adipiscing elit",
+      "new_description": "Our 'Pure Cotton Chino Shorts' from the M & S Collection offer a classic, plain look with maximum comfort - perfect for any casual occasion. Made from 100% cotton and featuring a button and zip fastening, these shorts are tailored to fit your regular size. The Better Cotton Initiative helps reduce environmental impacts of cotton farming; support community initiatives through mass balance. Refresh your wardrobe today!"
+    },
+    "keywords": [
+      "Cotton Mix",
+      "Plain",
+      "M S Brand",
+      "Button And Zip Fastening",
+      "Jeans",
+      "Bci Cotton",
+      "Denim",
+      "Regular Fit",
+      "Straight Leg",
+      "On Waist",
+      "Straight Leg",
+      "Ruffle"
+    ]
+  },
+  {
+    "productId": "T579057",
+    "productName": "5 Pocket Jeggings",
+    "descriptions": {
+      "old_description": "dolor sit amet, consectetur adipiscing elit",
+      "new_description": "This beautiful shirt from the Indigo Collection is a classic style with modern appeal. The Regular Fit provides comfort while button-through, V-neck styling looks smart and sophisticated. Ideal for those days when you want to ooze effortless elegance!"
+    },
+    "keywords": [
+      "Cotton Mix",
+      "Plain",
+      "M S Brand",
+      "Button And Zip Fastening",
+      "Jeans",
+      "Bci Cotton",
+      "Denim",
+      "Regular Fit",
+      "Straight Leg",
+      "On Waist",
+      "Straight Leg",
+      "Ruffle"
+    ]
+  },
+  {
+    "productId": "T578639I",
+    "productName": "In Fray Turn Up Mid Rise Skinny Leg Jeans",
+    "descriptions": {
+      "old_description": "dolor sit amet, consectetur adipiscing elit",
+      "new_description": "Our In Fray Turn Up Mid Rise Skinny Leg Jeans from our Indigo Collection are perfect for any wardrobe. Crafted from a denim and cotton blend, these regular fit jeans feature a button and zip fastening, cropped ankles and mid-rise waist for a classic silhouette. Furthermore, The Better Cotton Initiative helps reduce the impact of cotton farming on the environment. Practical yet stylish - look no further!"
+    },
+    "keywords": [
+      "Cotton Mix",
+      "Plain",
+      "M S Brand",
+      "Button And Zip Fastening",
+      "Jeans",
+      "Bci Cotton",
+      "Denim",
+      "Regular Fit",
+      "Straight Leg",
+      "On Waist",
+      "Straight Leg",
+      "Ruffle"
+    ]
+  },
+  {
+    "productId": "T578604",
+    "productName": "High Waisted Jeggings",
+    "descriptions": {
+      "old_description": "dolor sit amet, consectetur adipiscing elit",
+      "new_description": "Elevate your denim style with these High Waisted Jeggings from our M&S Collection. They feature a plain, denim-blue finish and are super skinny fit for a sleek look. Crafted from an unlined cotton blend that offers extra stretch, they can be pulled on quickly to create the perfect ankle-length jeans look. Alongside suitable comfort and style benefits this garment is also part of the Better Cotton Initiative (BCI) helping reduce environmental impact of cotton farming and supporting community initiatives through mass balance."
+    },
+    "keywords": [
+      "Cotton Mix",
+      "Plain",
+      "M S Brand",
+      "Button And Zip Fastening",
+      "Jeans",
+      "Bci Cotton",
+      "Denim",
+      "Regular Fit",
+      "Straight Leg",
+      "On Waist",
+      "Straight Leg",
+      "Ruffle"
+    ]
+  },
+  {
+    "productId": "T578786",
+    "productName": "High Waisted Flare Cropped Jeans",
+    "descriptions": {
+      "old_description": "dolor sit amet, consectetur adipiscing elit",
+      "new_description": "These 'High Waisted Flare Cropped Jeans' from the M And S Collection make a great wardrobe staple. Made of plain cotton, these jeans are flared and high waisted for classic style - plus button and zip fastening for maximum convenience. Regular fit ensures comfort and cropped length ensures versatility; perfect for day-to-night outfits! They're crafted with recycled cotton fibre spun from spinning waste, noils, fabric scraps or used garments."
+    },
+    "keywords": [
+      "Cotton Mix",
+      "Plain",
+      "M S Brand",
+      "Button And Zip Fastening",
+      "Jeans",
+      "Bci Cotton",
+      "Denim",
+      "Regular Fit",
+      "Straight Leg",
+      "On Waist",
+      "Straight Leg",
+      "Ruffle"
+    ]
   }
 ]
